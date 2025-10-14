@@ -1,4 +1,4 @@
-📝 Multilabel Text Classification with NLP
+# Multilabel Text Classification with NLP
 
 ## 📌 Project Overview
 
@@ -8,7 +8,7 @@ Unlike traditional classification problems where each text belongs to a single c
 
 For example, a question about Python and Machine Learning could be tagged with both **“python”** and **“machine-learning”**.
 
----
+
 
 ## 🎯 Objectives
 
@@ -18,7 +18,7 @@ For example, a question about Python and Machine Learning could be tagged with b
 * Utilize **Scikit-Multilearn**, a Python library designed for multilabel classification.
 * Build a robust text classification pipeline with NLP techniques.
 
----
+
 
 ## 🗂️ Business Context
 
@@ -26,7 +26,7 @@ Stack Overflow is one of the most important platforms for programmers and develo
 
 Manually tagging these questions is time-consuming and error-prone. By applying **machine learning**, we can automate this process, improving **content organization**, **searchability**, and **user experience**.
 
----
+
 
 ## 📊 Dataset
 
@@ -39,7 +39,7 @@ Examples of labels:
 
 * `python`, `java`, `machine-learning`, `django`, `nlp`, `reactjs`, `sql`.
 
----
+
 
 ## ⚙️ Methodology
 
@@ -67,7 +67,7 @@ Examples of labels:
    * **Jaccard Similarity**
    * **F1-Score (micro/macro averaging)**
 
----
+
 
 ## 🔄 Project Pipeline
 
@@ -80,7 +80,7 @@ flowchart TD
     E --> F[🏷️ Predict Tags for New Questions]
 ```
 
----
+
 
 ## 📈 Expected Results
 
@@ -89,13 +89,10 @@ flowchart TD
 * Insights into **challenges of multilabel text classification**.
 * A **portfolio-ready project** showcasing NLP and ML expertise.
 
----
+
 
 ## 👨‍💻 Authors
 
 Project developed by **Nowa Analytics**
 🚀 Data Science Consulting | Machine Learning Solutions
 
----
-
-👉 Do you want me to also include **sample results** (e.g., example predictions of tags for new Stack Overflow questions) to make your README more demonstrative for clients and recruiters?
